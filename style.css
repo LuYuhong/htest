@@ -1,0 +1,131 @@
+#head{
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    padding: 0px;
+    margin: 0 ;
+    display: block;
+}
+
+#main{
+    width: 100%;
+    height: 1000px;
+    background-color: #f2f2f2;
+}
+
+#head-name{
+    width: 80%;
+    height: 50px;
+    /* background-color: salmon; */
+    margin: 0 auto;
+    text-align: left;
+}
+
+#head-name span{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    /* vertical-align: top; */
+    vertical-align:12px;
+}
+
+#head-name img{
+    padding-left: 100px;
+    max-width: 50px;
+    
+    /* display: none; */
+}
+
+#search{
+    width: 80%;
+    height: 110px;
+    /* background-color: seagreen; */
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#search input{
+    font-size: 25px;
+}
+
+#nav{
+    width: 80%;
+    height: 800px;
+    background-color:steelblue;
+    margin: 0 auto;
+}
+
+.nav-1-1{
+    background-color: red;
+    width: 25%;
+    height: 200px;
+    float: left;
+    margin-left:90px;
+    text-align: center;
+}
+
+.nav-2-1{
+    background-color: red;
+    width: 25%;
+    height: 200px;
+    float: left;
+    margin-left:90px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.nav-3-1{
+    background-color: red;
+    width: 25%;
+    height: 200px;
+    float: left;
+    margin-left:90px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.nav-character{
+    background-color:sandybrown;
+    width: 100%;
+    height: 35px;
+    text-align: left;
+    font-size: 16px;
+    color: slategrey;
+    margin-left: 50px;
+    display: block;
+}
+
+.nav-content{
+    width: 30%;
+    height: 40px;
+    margin: 0 auto;
+    float: left;
+   background-color: #fff;
+    margin-left: 10px;
+}
+
+.nav-content:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.nav-content img{
+    max-width: 40px;
+}
+
+.nav-content span{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align:12px;
+}
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
